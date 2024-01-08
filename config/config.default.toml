@@ -15,7 +15,7 @@ main_server_id = ""
 
 [discord.users]
 # The bot will use this to check if you can use admins commands
-owner_id = ""
+owner_id = "@gamer000gaming"
 # Put id of the user where bot's received dms will be sent
 dm_manager_id = ""
 
